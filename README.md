@@ -10,8 +10,8 @@
 * [Freelancing Basics](#Freelancing-Basics)
 
 
-# Computer Network Fundamentals
-## what is Computer Network Fundamental
+## Computer Network Fundamentals
+### what is Computer Network Fundamental
 It is a group of computers and computer peripgherals connected together through a transmitting media for electric signals. in addition to connected devices which transmit data through the computing devices.
 * Computers (end points) -> PC, Mobile Phone, Tablet, Laptop, Embedded System (IoT)
 * Computer Peripheral -> Printer, Scanner, External Storage Media.
@@ -23,37 +23,22 @@ It is a group of computers and computer peripgherals connected together through 
 </div>
 <hr/>
 
-## Computer Network Topologies
+### Computer Network Topologies
 Methods of connecting computers networks and defines the way of communication of each device.
 * Point to Point
-
-<div>
-<img height="50px" src="https://user-images.githubusercontent.com/38363762/165063764-7743caf1-ed92-48a8-8461-8e915acb2a7e.png">
-</div>
-
 * Bus
-
-<div>
-<img height="100px" src="https://user-images.githubusercontent.com/38363762/165063925-da44b96a-a487-41e4-b320-780ba2caeaa8.png">
-</div>
-
 * Star
-
-<div>
-<img height="150px" src="https://user-images.githubusercontent.com/38363762/165064129-3ee017ba-6c77-494f-982b-d8c0a5975b0e.png">
-</div>
-
 * Mesh
 
-<div>
-<img height="150px" src="https://user-images.githubusercontent.com/38363762/165064170-2b04d491-d7c8-41fe-a145-9449778f4a05.png">
+
+
+
+<div align='center'>
+<img height="350px" src="https://user-images.githubusercontent.com/38363762/165064968-629816b4-2f65-4b2c-b975-c39397bee5b0.jpg">
 </div>
+<hr/>
 
-
-
-
-
-
+###
    
 # Python Programming Fundamentals
 
