@@ -28,18 +28,21 @@ Methods of connecting computers networks and defines the way of communication of
 * Point to Point
 
 <div align='center'>
-<img height="150px" src="https://user-images.githubusercontent.com/38363762/165063764-7743caf1-ed92-48a8-8461-8e915acb2a7e.png">
+<img height="50px" src="https://user-images.githubusercontent.com/38363762/165063764-7743caf1-ed92-48a8-8461-8e915acb2a7e.png">
 </div>
+
 * Bus
 
 <div align='center'>
-<img height="150px" src="https://user-images.githubusercontent.com/38363762/165063925-da44b96a-a487-41e4-b320-780ba2caeaa8.png">
+<img height="100px" src="https://user-images.githubusercontent.com/38363762/165063925-da44b96a-a487-41e4-b320-780ba2caeaa8.png">
 </div>
+
 * Star
 
 <div align='center'>
 <img height="150px" src="https://user-images.githubusercontent.com/38363762/165064129-3ee017ba-6c77-494f-982b-d8c0a5975b0e.png">
 </div>
+
 * Mesh
 
 <div align='center'>
